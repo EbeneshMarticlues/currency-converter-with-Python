@@ -1,0 +1,2 @@
+# currency-converter-with-Python
+code uses the Exchange Rates API to get the latest exchange rates for different currencies. You will need to sign up for an API key on the Exchange Rates API website and replace the YOUR_API_KEY placeholder with your own API key. The convert_currency function takes the amount, from currency, and to currency as input and returns the converted amount. The code prompts the user to enter the amount, from currency, and to currency, and then calls the convert_currency function to get the converted amount, which is then printed to the console.
